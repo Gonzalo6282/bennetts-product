@@ -1,7 +1,9 @@
-# Getting Started with Create React App
+# Bennets Product Page
+[Live demo](https://bennetts-product.s3.eu-west-2.amazonaws.com/index.html)
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
